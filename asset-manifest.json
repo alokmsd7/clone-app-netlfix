@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clone-app-netlfix/static/css/main.1f09b83d.css",
+    "main.js": "/clone-app-netlfix/static/js/main.03ac30f3.js",
+    "static/js/787.440c4889.chunk.js": "/clone-app-netlfix/static/js/787.440c4889.chunk.js",
+    "index.html": "/clone-app-netlfix/index.html",
+    "main.1f09b83d.css.map": "/clone-app-netlfix/static/css/main.1f09b83d.css.map",
+    "main.03ac30f3.js.map": "/clone-app-netlfix/static/js/main.03ac30f3.js.map",
+    "787.440c4889.chunk.js.map": "/clone-app-netlfix/static/js/787.440c4889.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f09b83d.css",
+    "static/js/main.03ac30f3.js"
+  ]
+}
